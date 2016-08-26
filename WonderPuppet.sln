@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{BA3B4422-5524-F4BA-E62A-243D8D2C4CF6}") = "WonderPuppet", "Assembly-CSharp.csproj", "{64B8E421-C4E5-5FB2-15CC-BCD0BF056E38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64B8E421-C4E5-5FB2-15CC-BCD0BF056E38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64B8E421-C4E5-5FB2-15CC-BCD0BF056E38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64B8E421-C4E5-5FB2-15CC-BCD0BF056E38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64B8E421-C4E5-5FB2-15CC-BCD0BF056E38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
