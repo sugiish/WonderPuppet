@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using System.Collections.Generic;
 
 public class Resources : MonoBehaviour {
     // 布地
@@ -11,6 +12,7 @@ public class Resources : MonoBehaviour {
     // 人形設計図所持のマスク
     public int enableMakePuppetsMask = 0;
 
-    
+    // 人形のprefabを登録しておく
+    public List<AbstractCharacter> puppetsList = new List<AbstractCharacter>();
 
 }
